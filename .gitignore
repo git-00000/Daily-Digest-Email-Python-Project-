@@ -1,0 +1,69 @@
+# -------------------------------
+# Python-related ignores
+# -------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+
+# -------------------------------
+# Virtual environment folders
+# -------------------------------
+venv/
+env/
+.venv/
+.env/
+
+# -------------------------------
+# Configuration and credentials
+# -------------------------------
+config.py
+*.env
+.env.*
+credentials.json
+apikeys.json
+token.json
+
+# -------------------------------
+# Logs and cache
+# -------------------------------
+*.log
+*.tmp
+*.bak
+.DS_Store
+.cache/
+__pycache__/
+*.sqlite3
+
+# -------------------------------
+# IDE / Editor files
+# -------------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# -------------------------------
+# OS files
+# -------------------------------
+Thumbs.db
+desktop.ini
+
+# -------------------------------
+# Jupyter / Notebook files
+# -------------------------------
+.ipynb_checkpoints/
+
+# -------------------------------
+# Miscellaneous
+# -------------------------------
+*.zip
+*.tar
+*.gz
+*.bak
