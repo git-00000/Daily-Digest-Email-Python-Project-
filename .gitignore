@@ -11,6 +11,9 @@ __pycache__/
 dist/
 build/
 *.spec
+tempCodeRunnerFile.py
+
+
 
 # -------------------------------
 # Virtual environment folders
@@ -67,3 +70,6 @@ desktop.ini
 *.tar
 *.gz
 *.bak
+quotes.csv
+message_text.txt
+dd_gui.spec
